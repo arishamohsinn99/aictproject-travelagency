@@ -26,12 +26,16 @@ The following files were used during project planning and data preparation:
 🔗 **GitHub Pages Link:** https://arishamohsinn99.github.io/aictproject-travelagency/
 
 ## 👥 Team Members
+
 SANA HUMAYUN
+
 ZAINEB ASIF
+
 MEERAB USMAN
+
 NOOR FATIMA
 
 
----
+---------------------------------------------------------------------------------------------------------------------------
 
 
